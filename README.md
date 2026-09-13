@@ -238,3 +238,6 @@ Open Roads is offered as a complete free version, including all features and upd
 ---
 
 Download Open Roads today and embark on an unforgettable adventure that will touch your heart and challenge your mind!
+
+---
+**Last updated:** 2026-09-13 21:24:04 UTC
